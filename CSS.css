@@ -1,0 +1,15 @@
+body {
+    background-color: #336699;
+}
+
+#contact_footer {
+    margin-top: 296px;
+}
+
+nav a {
+    color: gray;
+}
+
+.card-body {
+    text-align: center !important;
+}
